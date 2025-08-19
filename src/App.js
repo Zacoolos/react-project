@@ -150,7 +150,7 @@ export default function App() {
             </div>
           </div>
 
-          <p className="font-bold text-[60px] translate-y-[3000px] text-center bg-gradient-to-tr from-pink-400 to-orange-500 bg-clip-text text-transparent">
+          <p className="font-bold text-[60px] translate-y-[3100px] text-center bg-gradient-to-tr from-pink-400 to-orange-500 bg-clip-text text-transparent">
             - The End -
           </p>
 
